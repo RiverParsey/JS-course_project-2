@@ -22,4 +22,5 @@ window.addEventListener('DOMContentLoaded', () => {
   calc('#size', '#material', '#options', '.promocode', '.calc-price');
   filter();
   pictureSize('.sizes-block');
+
 });
